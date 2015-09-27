@@ -221,3 +221,12 @@
 [2015-09-27 22:50:29,569][WARN ][cluster.routing.allocation.decider] [Letha] high disk watermark [90%] exceeded on [JvrsZgGDTrq4yylAh641hw][Letha] free: 6.5gb[5.8%], shards will be relocated away from this node
 [2015-09-27 22:50:29,569][INFO ][cluster.routing.allocation.decider] [Letha] high disk watermark exceeded on one or more nodes, rerouting shards
 [2015-09-27 22:50:59,566][WARN ][cluster.routing.allocation.decider] [Letha] high disk watermark [90%] exceeded on [JvrsZgGDTrq4yylAh641hw][Letha] free: 6.5gb[5.8%], shards will be relocated away from this node
+[2015-09-27 22:51:29,567][WARN ][cluster.routing.allocation.decider] [Letha] high disk watermark [90%] exceeded on [JvrsZgGDTrq4yylAh641hw][Letha] free: 6.5gb[5.8%], shards will be relocated away from this node
+[2015-09-27 22:51:29,567][INFO ][cluster.routing.allocation.decider] [Letha] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-09-27 22:51:59,564][WARN ][cluster.routing.allocation.decider] [Letha] high disk watermark [90%] exceeded on [JvrsZgGDTrq4yylAh641hw][Letha] free: 6.5gb[5.8%], shards will be relocated away from this node
+[2015-09-27 22:52:29,563][WARN ][cluster.routing.allocation.decider] [Letha] high disk watermark [90%] exceeded on [JvrsZgGDTrq4yylAh641hw][Letha] free: 6.5gb[5.8%], shards will be relocated away from this node
+[2015-09-27 22:52:59,562][WARN ][cluster.routing.allocation.decider] [Letha] high disk watermark [90%] exceeded on [JvrsZgGDTrq4yylAh641hw][Letha] free: 6.5gb[5.8%], shards will be relocated away from this node
+[2015-09-27 22:52:59,562][INFO ][cluster.routing.allocation.decider] [Letha] high disk watermark exceeded on one or more nodes, rerouting shards
+[2015-09-27 22:53:29,561][WARN ][cluster.routing.allocation.decider] [Letha] high disk watermark [90%] exceeded on [JvrsZgGDTrq4yylAh641hw][Letha] free: 6.5gb[5.8%], shards will be relocated away from this node
+[2015-09-27 22:53:59,561][WARN ][cluster.routing.allocation.decider] [Letha] high disk watermark [90%] exceeded on [JvrsZgGDTrq4yylAh641hw][Letha] free: 6.5gb[5.8%], shards will be relocated away from this node
+[2015-09-27 22:53:59,561][INFO ][cluster.routing.allocation.decider] [Letha] high disk watermark exceeded on one or more nodes, rerouting shards
