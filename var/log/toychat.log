@@ -1,0 +1,24 @@
+{"name":"toychat","hostname":"ayyash-3.local","pid":5418,"level":30,"status":"connected","id":"JsmRNONZLWn13IFQAAAA","msg":"","time":"2015-09-27T18:37:20.155Z","v":0}
+{"name":"toychat","hostname":"ayyash-3.local","pid":5418,"level":30,"status":"connected","id":"PL1ZO8SXPOtHokKrAAAB","msg":"","time":"2015-09-27T18:37:20.921Z","v":0}
+{"name":"toychat","hostname":"ayyash-3.local","pid":6145,"level":30,"event":"connected","id":"w2rY3B2tck3Bv4txAAAA","msg":"User connected successfully","time":"2015-09-27T19:03:38.526Z","v":0}
+{"name":"toychat","hostname":"ayyash-3.local","pid":6145,"level":30,"event":"chat_message","id":"w2rY3B2tck3Bv4txAAAA","msg":"hello","time":"2015-09-27T19:03:41.757Z","v":0}
+{"name":"toychat","hostname":"ayyash-3.local","pid":6145,"level":30,"event":"chat_message","id":"w2rY3B2tck3Bv4txAAAA","msg":"how are you doing people ? ","time":"2015-09-27T19:03:47.203Z","v":0}
+{"name":"toychat","hostname":"ayyash-3.local","pid":6145,"level":30,"event":"chat_message","id":"w2rY3B2tck3Bv4txAAAA","msg":"heyyy","time":"2015-09-27T19:05:54.179Z","v":0}
+{"name":"toychat","hostname":"ayyash-3.local","pid":6145,"level":30,"event":"chat_message","id":"w2rY3B2tck3Bv4txAAAA","msg":"ha haaaa","time":"2015-09-27T19:12:00.133Z","v":0}
+{"name":"toychat","hostname":"ayyash-3.local","pid":6145,"level":30,"event":"connected","id":"zAgUJ_9bd-dTA30oAAAB","msg":"User connected successfully","time":"2015-09-27T19:16:08.841Z","v":0}
+{"name":"toychat","hostname":"ayyash-3.local","pid":6145,"level":30,"event":"disconnected","id":"zAgUJ_9bd-dTA30oAAAB","msg":"User disconnected","time":"2015-09-27T19:16:09.792Z","v":0}
+{"name":"toychat","hostname":"ayyash-3.local","pid":6145,"level":30,"event":"chat_message","id":"w2rY3B2tck3Bv4txAAAA","msg":"welcome to the chat","time":"2015-09-27T19:38:52.973Z","v":0}
+{"name":"toychat","hostname":"ayyash-3.local","pid":6145,"level":30,"event":"chat_message","id":"w2rY3B2tck3Bv4txAAAA","msg":"this chat is awesome you know ","time":"2015-09-27T19:38:57.655Z","v":0}
+{"name":"toychat","hostname":"ayyash-3.local","pid":6145,"level":30,"event":"chat_message","id":"w2rY3B2tck3Bv4txAAAA","msg":"no I don't, tell me ","time":"2015-09-27T19:39:06.760Z","v":0}
+{"name":"toychat","hostname":"ayyash-3.local","pid":6145,"level":30,"event":"chat_message","id":"w2rY3B2tck3Bv4txAAAA","msg":"this chat is built on an ELK stack ","time":"2015-09-27T19:39:13.112Z","v":0}
+{"name":"toychat","hostname":"ayyash-3.local","pid":6145,"level":30,"event":"chat_message","id":"w2rY3B2tck3Bv4txAAAA","msg":"wow ","time":"2015-09-27T19:39:14.048Z","v":0}
+{"name":"toychat","hostname":"ayyash-3.local","pid":6145,"level":30,"event":"chat_message","id":"w2rY3B2tck3Bv4txAAAA","msg":"what is that ? ","time":"2015-09-27T19:39:17.351Z","v":0}
+{"name":"toychat","hostname":"ayyash-3.local","pid":6145,"level":30,"event":"chat_message","id":"w2rY3B2tck3Bv4txAAAA","msg":"that's the one stack I'm learning how to use recently for chat apps ","time":"2015-09-27T19:39:27.847Z","v":0}
+{"name":"toychat","hostname":"ayyash-3.local","pid":6145,"level":30,"event":"chat_message","id":"w2rY3B2tck3Bv4txAAAA","msg":"is it only for chat ? ","time":"2015-09-27T19:39:32.574Z","v":0}
+{"name":"toychat","hostname":"ayyash-3.local","pid":6145,"level":30,"event":"chat_message","id":"w2rY3B2tck3Bv4txAAAA","msg":"it doesn't seem so ","time":"2015-09-27T19:39:36.542Z","v":0}
+{"name":"toychat","hostname":"ayyash-3.local","pid":6145,"level":30,"event":"chat_message","id":"w2rY3B2tck3Bv4txAAAA","msg":"the potentials are endless with this power","time":"2015-09-27T19:39:47.037Z","v":0}
+{"name":"toychat","hostname":"ayyash-3.local","pid":6145,"level":30,"event":"chat_message","id":"w2rY3B2tck3Bv4txAAAA","msg":"the only trouble I am facing is getting the reports out ","time":"2015-09-27T19:39:55.788Z","v":0}
+{"name":"toychat","hostname":"ayyash-3.local","pid":6902,"level":30,"event":"connected","id":"jbLCs1U_xSmw34lSAAAA","msg":"User connected successfully","time":"2015-09-27T19:48:14.114Z","v":0}
+{"name":"toychat","hostname":"ayyash-3.local","pid":6902,"level":30,"event":"chat_message","id":"jbLCs1U_xSmw34lSAAAA","msg":"ELK is amazing you know","time":"2015-09-27T19:48:21.546Z","v":0}
+{"name":"toychat","hostname":"ayyash-3.local","pid":6902,"level":30,"event":"chat_message","id":"jbLCs1U_xSmw34lSAAAA","msg":"no I don't know about ELK ","time":"2015-09-27T19:48:29.224Z","v":0}
+{"name":"toychat","hostname":"ayyash-3.local","pid":6902,"level":30,"event":"chat_message","id":"jbLCs1U_xSmw34lSAAAA","msg":"tell me more about it, ELK ? ","time":"2015-09-27T19:48:35.415Z","v":0}
